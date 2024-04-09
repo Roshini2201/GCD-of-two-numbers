@@ -27,7 +27,8 @@ def gcd():
 
 ## Output:
 
-![image](https://github.com/Roshini2201/GCD-of-two-numbers/assets/154105318/05c6022e-5806-4fb3-8cbc-cea34a5dddd8)
+![Screenshot 2024-04-09 115603](https://github.com/Roshini2201/GCD-of-two-numbers/assets/154105318/acd1441a-4f66-482d-9e4a-df1f0bbe1684)
+
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
